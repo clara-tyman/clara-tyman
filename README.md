@@ -7,6 +7,10 @@ Nationality: Candaian <br>
 Job: School <br>
 Hobbies: Ringette, Drawing, Reading, Swimming <br>
 
+<img src='' alt='github' height='40'> 
+
+
+
 <h3>Skills</h3>
 Laugages: 
 <img src='https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white' alt='github' height='40'> 

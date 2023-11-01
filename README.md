@@ -9,8 +9,9 @@ Hobbies: Ringette, Drawing, Reading, Swimming
 
 <h3>Skills</h3>
 Laugages: 
-!TypeScript(https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-!Python(https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white' alt='github' height='40'> 
+<img src='https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54' alt='github' height='40'> 
+
 
 <h3>Tools</h3>h3>
 Operating systems: 
@@ -19,5 +20,5 @@ Operating systems:
 
 
 
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/clara-tyman)  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://github.com/clara-tyman/clara-tyman)  
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'> (https://github.com/clara-tyman)  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://github.com/clara-tyman/clara-tyman)  
 

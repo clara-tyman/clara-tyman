@@ -1,11 +1,11 @@
 ### Hi there 👋, 
 
 <h3>About Me</h3>
-My name is Clara. I'm from Ottawa. Canada. I go to school at St. Mother Teresa High school. I am currently taking a computer programming class.
-Pronouns: she/her 
-Nationality: Candaian
-Job: School
-Hobbies: Ringette, Drawing, Reading, Swimming
+My name is Clara. I'm from Ottawa. Canada. I go to school at St. Mother Teresa High school. I am currently taking a computer programming class. <br>
+Pronouns: she/her <br>
+Nationality: Candaian <br>
+Job: School <br>
+Hobbies: Ringette, Drawing, Reading, Swimming <br>
 
 <h3>Skills</h3>
 Laugages: 

@@ -13,7 +13,7 @@ Laugages:
 <img src='https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54' alt='github' height='40'> 
 
 
-<h3>Tools</h3>h3>
+<h3>Tools</h3>
 Operating systems: 
 <img src='https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white' alt='github' height='40'> 
 <img src='https://img.shields.io/badge/chrome%20os-3d89fc?style=for-the-badge&logo=google%20chrome&logoColor=white' alt='github' height='40'> 

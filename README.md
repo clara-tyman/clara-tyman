@@ -7,7 +7,7 @@ Nationality: Candaian <br>
 Job: School <br>
 Hobbies: Ringette, Drawing, Reading, Swimming <br>
 
-<img src='![image](https://github.com/clara-tyman/clara-tyman/assets/144264170/6c1ccda7-643c-4e2b-aea1-2b778f25e08b)' alt='github' height='40'> 
+<img src='https://github.com/clara-tyman/clara-tyman/assets/144264170/6c1ccda7-643c-4e2b-aea1-2b778f25e08b' alt='github' height='40'> 
 
 
 

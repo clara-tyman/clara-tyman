@@ -1,7 +1,7 @@
 ### Hi there 👋, 
 
 <h3>About Me</h3>
-My name is Clara. I'm from Ottawa. Canada. I go to school at St. Mother Teresa High school. I am currently taking a computer programming class. <br>
+My name is Clara. I'm from Ottawa, Canada. I go to school at St. Mother Teresa High school. I am currently taking a computer programming class. <br>
 Pronouns: she/her <br>
 Nationality: Canadian <br>
 Job: School <br>

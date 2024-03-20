@@ -3,7 +3,7 @@
 <h3>About Me</h3>
 My name is Clara. I'm from Ottawa. Canada. I go to school at St. Mother Teresa High school. I am currently taking a computer programming class. <br>
 Pronouns: she/her <br>
-Nationality: Candaian <br>
+Nationality: Canadian <br>
 Job: School <br>
 Hobbies: Ringette, Drawing, Reading, Swimming <br>
 Fun fact: I love red Pandas <br>
@@ -20,6 +20,7 @@ Laugages:
 <img src='https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white' alt='github' height='20'> 
 <img src='https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54' alt='github' height='20'> 
 <img src='https://img.shields.io/badge/javascript-blue?logo=javascript&logoColor=f5f5f5' alt='github' height='20'>
+<img src='https://img.shields.io/badge/php?logo=javascript&logoColor=f5f5f5' alt='github' height='20'>
 
 
 

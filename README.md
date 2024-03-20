@@ -17,10 +17,12 @@ Fun fact: I love red Pandas <br>
 
 <h3>Skills</h3>
 Laugages: 
-<img src='https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white' alt='github' height='20'> 
-<img src='https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54' alt='github' height='20'> 
-<img src='https://img.shields.io/badge/javascript-blue?logo=javascript&logoColor=f5f5f5' alt='github' height='20'>
-<img src='https://img.shields.io/badge/php?logo=javascript&logoColor=f5f5f5' alt='github' height='20'>
+<img src='https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white' alt='github' height='20'>
+<img src='https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54' alt='github' height='20'>
+<img src='https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white' alt='github' height='20'>
+<img src='https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white' alt='github' height='20'>
+<img src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black' alt='github' height='20'>
+<img src='https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white' alt='github' height='20'>
 
 
 

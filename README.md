@@ -7,7 +7,7 @@ Nationality: Canadian <br>
 Job: School <br>
 Hobbies: Ringette, Drawing, Reading, Swimming <br>
 Fun fact: I love red Pandas <br>
-<img src='https://github.com/clara-tyman/clara-tyman/assets/144264170/cc9fa9ef-196d-4f4a-bbf6-0f8a3ed63a04' align="right" alt='github' height='350'> 
+<img src='file:///Users/kids/Downloads/red%20panda.gif' align="right" alt='github' height='350'> 
 
 
 

@@ -7,7 +7,7 @@ Nationality: Canadian <br>
 Job: School <br>
 Hobbies: Ringette, Drawing, Reading, Swimming <br>
 Fun fact: I love red Pandas <br>
-<img src='file:///Users/kids/Downloads/red%20panda.gif' align="right" alt='github' height='350'> 
+<img src='(https://github-production-user-asset-6210df.s3.amazonaws.com/144264170/279751732-cc9fa9ef-196d-4f4a-bbf6-0f8a3ed63a04.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240320%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240320T201958Z&X-Amz-Expires=300&X-Amz-Signature=dcacb2c6af26d51b3b3a6966bae6f24904115d2fd0d5d6a9df1e6f5d74537ebc&X-Amz-SignedHeaders=host&actor_id=144264170&key_id=0&repo_id=713007675)'350'> 
 
 
 

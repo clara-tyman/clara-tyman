@@ -19,6 +19,8 @@ Fun fact: I love red Pandas <br>
 Laugages: 
 <img src='https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white' alt='github' height='20'> 
 <img src='https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54' alt='github' height='20'> 
+<img src='https://img.shields.io/badge/logo-javascript-blue?logo=javascript&logoColor=f5f5f5' alt='github' height='20'>
+
 
 
 <h3>Tools</h3>

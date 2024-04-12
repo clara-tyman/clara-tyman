@@ -29,7 +29,8 @@ Laugages:
 <h3>Tools</h3>
 Operating systems: 
 <img src='https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white' alt='github' height='20'> 
-<img src='https://img.shields.io/badge/chrome%20os-3d89fc?style=for-the-badge&logo=google%20chrome&logoColor=white' alt='github' height='20'> 
+<img src='https://img.shields.io/badge/chrome%20os-3d89fc?style=for-the-badge&logo=google%20chrome&logoColor=white' alt='github' height='20'>
+<img src='https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black' alt='github' height='20'>
 
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'> (https://github.com/clara-tyman)  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://github.com/clara-tyman/clara-tyman)  
 

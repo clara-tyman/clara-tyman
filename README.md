@@ -11,7 +11,9 @@ Fun fact: I love red Pandas <br>
 
 
 <h2>Red Panda!</h2>
-<img src='https://github.com/clara-tyman/clara-tyman/assets/144264170/4b522f92-9196-42c3-82c8-d94a74097851' align="right" alt='github' height='350'> 
+<p> 
+<img src='https://github.com/clara-tyman/clara-tyman/assets/144264170/4b522f92-9196-42c3-82c8-d94a74097851' align="right" alt='github' height='350'>
+</p> 
 
 
 

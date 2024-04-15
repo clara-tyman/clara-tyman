@@ -11,7 +11,7 @@ Fun fact: I love red Pandas <br>
 
 
 
-<img src='[https://github.com/clara-tyman/clara-tyman/assets/144264170/6c1ccda7-643c-4e2b-aea1-2b778f25e08b](https://www.google.com/imgres?q=red%20panda%20img&imgurl=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1463436755683-3f805a9d1192%3Fq%3D80%26w%3D1000%26auto%3Dformat%26fit%3Dcrop%26ixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxzZWFyY2h8MTF8fHJlZCUyMHBhbmRhfGVufDB8fDB8fHww&imgrefurl=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fred-panda&docid=8_apJ8U2pD062M&tbnid=xYCZfCy_fLgN-M&vet=12ahUKEwi-6KfW6cSFAxVdJTQIHfspCKcQM3oECE0QAA..i&w=1000&h=664&hcb=2&ved=2ahUKEwi-6KfW6cSFAxVdJTQIHfspCKcQM3oECE0QAA)' align="right" alt='github' height='350'> 
+<img src='https://github.com/clara-tyman/clara-tyman/assets/144264170/4b522f92-9196-42c3-82c8-d94a74097851' align="right" alt='github' height='350'> 
 
 
 

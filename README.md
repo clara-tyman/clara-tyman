@@ -9,13 +9,10 @@ Hobbies: Ringette, Drawing, Reading, Swimming <br>
 Fun fact: I love red Pandas <br>
 
 
-
 <h2>Red Panda!</h2>
 <p> 
 <img src='https://github.com/clara-tyman/clara-tyman/assets/144264170/4b522f92-9196-42c3-82c8-d94a74097851' align="right" alt='github' height='350'>
 </p> 
-
-
 
 <h2>Skills</h2>
 <p>
@@ -28,7 +25,6 @@ Laugages:
 <img src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black' alt='github' height='20'>
 <img src='https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white' alt='github' height='20'>
 </p>
-
 
 <h2>Operating systems</h2>
 <p> 

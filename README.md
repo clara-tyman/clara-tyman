@@ -10,13 +10,6 @@ Fun fact: I love red Pandas <br>
 </div>
 
 <div>
-<h2>Red Panda!</h2>
-<p> 
-<img src='https://github.com/clara-tyman/clara-tyman/assets/144264170/4b522f92-9196-42c3-82c8-d94a74097851' align="right" alt='github' height='350'>
-</p> 
-</div>
-
-<div>
 <h2>Skills</h2>
 <p>
 Laugages: 
@@ -49,3 +42,9 @@ Laugages:
 
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://github.com/clara-tyman/clara-tyman)  
 
+<div>
+<h2>Red Panda!</h2>
+<p> 
+<img src='https://github.com/clara-tyman/clara-tyman/assets/144264170/4b522f92-9196-42c3-82c8-d94a74097851' align="right" alt='github' height='350'>
+</p> 
+</div>

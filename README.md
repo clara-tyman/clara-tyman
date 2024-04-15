@@ -17,9 +17,8 @@ Fun fact: I love red Pandas <br>
 </div>
 
 <div>
-<h2>Skills</h2>
+<h2>Languages</h2>
 <p>
-Laugages: 
 <img src='https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white' alt='github' height='20'> 
 <img src='https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54' alt='github' height='20'>
 <a href="https://github.com/search?q=user%3Aclara-tyman+language%3AHTML"> <img src='https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)' alt='github' height='20'> </a>

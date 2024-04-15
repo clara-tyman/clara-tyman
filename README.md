@@ -1,6 +1,6 @@
 ### Hi there 👋, 
 
-<h3>About Me</h3>
+<h2>About Me</h2>
 My name is Clara. I'm from Ottawa, Canada. I go to school at St. Mother Teresa High school. I am currently taking a computer programming class. <br>
 Pronouns: she/her <br>
 Nationality: Canadian <br>
@@ -26,7 +26,7 @@ Laugages:
 
 
 
-<h3>Tools</h3>
+<h2>Tools</h2>
 Operating systems: 
 <img src='https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white' alt='github' height='20'> 
 <img src='https://img.shields.io/badge/chrome%20os-3d89fc?style=for-the-badge&logo=google%20chrome&logoColor=white' alt='github' height='20'>

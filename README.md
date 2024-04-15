@@ -23,9 +23,9 @@ Laugages:
 <img src='https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white' alt='github' height='20'> 
 <img src='https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54' alt='github' height='20'>
 <a href="https://github.com/search?q=user%3Aclara-tyman+language%3Ahtml"> <img src='https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)' alt='github' height='20'> </a>
-<img src='https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white' alt='github' height='20'>
-<img src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black' alt='github' height='20'>
-<img src='https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white' alt='github' height='20'>
+<a href="https://github.com/search?q=user%3Aclara-tyman+language%3Acss"> <img src='https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white' alt='github' height='20'> </a>
+<a href="https://github.com/search?q=user%3Aclara-tyman+language%3AJavaScipt"> <img src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black' alt='github' height='20'> </a>
+<a href="https://github.com/search?q=user%3Aclara-tyman+language%3Aphp"> <img src='https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white' alt='github' height='20'> </a>
 </p>
 </div>
 

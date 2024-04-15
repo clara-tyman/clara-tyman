@@ -1,5 +1,5 @@
 ### Hi there 👋, 
-
+<div>
 <h2>About Me</h2>
 My name is Clara. I'm from Ottawa, Canada. I go to school at St. Mother Teresa High school. I am currently taking a computer programming class. <br>
 Pronouns: she/her <br>
@@ -7,12 +7,14 @@ Nationality: Canadian <br>
 Job: School <br>
 Hobbies: Ringette, Drawing, Reading, Swimming <br>
 Fun fact: I love red Pandas <br>
+</div>
 
-
+<div>
 <h2>Red Panda!</h2>
 <p> 
 <img src='https://github.com/clara-tyman/clara-tyman/assets/144264170/4b522f92-9196-42c3-82c8-d94a74097851' align="right" alt='github' height='350'>
 </p> 
+</div>
 
 <h2>Skills</h2>
 <p>

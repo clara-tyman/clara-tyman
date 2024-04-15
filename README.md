@@ -5,7 +5,7 @@ My name is Clara. I'm from Ottawa, Canada. I go to school at St. Mother Teresa H
 Pronouns: she/her <br>
 Nationality: Canadian <br>
 Job: School <br>
-Hobbies: Ringette, Drawing, Reading, Swimming <br>
+Hobbies: Ringette, Drawing, Reading, Swimming and baking <br>
 Fun fact: I love red Pandas <br>
 </div>
 

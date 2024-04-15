@@ -39,12 +39,10 @@ Laugages:
 </p>
 </div>
 
-<h2>Tools</h2>
+<h2>Github links</h2>
 <p>
-  <img src=' '
-</p>
-
-
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'> (https://github.com/clara-tyman)  
 
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://github.com/clara-tyman/clara-tyman)  
+</p>
+

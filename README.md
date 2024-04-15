@@ -15,7 +15,7 @@ Fun fact: I love red Pandas <br>
 
 
 
-<h3>Skills</h3>
+<h2>Skills</h2>
 Laugages: 
 <img src='https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white' alt='github' height='20'> 
 <img src='https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54' alt='github' height='20'>
@@ -32,6 +32,7 @@ Operating systems:
 <img src='https://img.shields.io/badge/chrome%20os-3d89fc?style=for-the-badge&logo=google%20chrome&logoColor=white' alt='github' height='20'>
 <img src='https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black' alt='github' height='20'>
 <img src='https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0' alt='github' height='20'>
+
 
 
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'> (https://github.com/clara-tyman)  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://github.com/clara-tyman/clara-tyman)  
